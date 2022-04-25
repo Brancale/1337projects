@@ -22,3 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/target/
+*.iml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml
+.idea/libraries/Maven__com_google_collections_google_collections_1_0.xml
+.idea/libraries/Maven__commons_httpclient_commons_httpclient_2_0_2.xml
+*.xml
