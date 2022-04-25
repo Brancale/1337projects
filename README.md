@@ -7,7 +7,7 @@ Implementing some of the following dependencies:
 - JUnit
 
 ---
-###Project Structure:
+### Project Structure:
 - A package is created for each problem category.  
   For example:
   - "Arrays and Strings" = ArraysAndStrings  
@@ -23,7 +23,7 @@ Implementing some of the following dependencies:
 
 ---
     
-###Project Setup:
+### Project Setup:
 - For the best experience, it is recommended to open this project in IntelliJ
 1) Import the Maven project from the Pom file to install the dependencies
 2) Create main and test files following the **Project Structure**
